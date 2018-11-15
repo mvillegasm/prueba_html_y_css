@@ -1,5 +1,5 @@
 body{
-	
+	background-color: #e4e4e4;
 }
 .titulo{
 	margin-top: 50px;
@@ -11,7 +11,12 @@ body{
 .altura{
 	height: 500px;
 }
+.texto{
+	margin-top: 50px;
+	width: 70%;
+}
 .pie{
 	background-color: #2a2a2a;
 	color: white;
+	margin-top: 50px;
 }
