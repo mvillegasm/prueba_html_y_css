@@ -1,9 +1,13 @@
 body{
-	text-align: center;
+	
 }
 .titulo{
 	margin-top: 50px;
+	text-align: center;
 }
 .margen{
 	margin-top: 50px;
+}
+.altura{
+	height: 500px;
 }
