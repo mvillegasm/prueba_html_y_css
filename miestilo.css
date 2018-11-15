@@ -11,3 +11,7 @@ body{
 .altura{
 	height: 500px;
 }
+.pie{
+	background-color: #2a2a2a;
+	color: white;
+}
